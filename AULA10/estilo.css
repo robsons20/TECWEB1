@@ -1,0 +1,96 @@
+#body{
+    margin:0%;     
+}
+
+#topo{
+    height: 299px;
+    width: 1365px;
+    background-color: darkgrey;
+    padding: 1px;
+    
+    
+}
+#logotipo{
+    height: 150px;
+    width: 300px;
+    background-color: dimgrey;
+    border-radius: 20PX;
+    margin-top: 21PX;
+    margin-left: 1PX;
+    margin-right: 150px;
+    float: left;
+    
+}
+#menu{
+    height: 180px;
+    width: 1000px;
+    margin-top: 60px;
+    margin-left: 88px;
+    
+    
+    
+}
+.itemmenu{
+    height: 30px;
+    width: 100px;
+    float: right;
+    margin-left: 10px;
+    background-color: #224858;
+    margin-top: 140px;
+}
+#banner{
+    height: 499px;
+    width: 1365px;
+    background-color:#224858;
+    padding: 1px;
+}
+#imbanner{
+    height: 250px;
+    width: 494px;
+    background-color: dimgrey;
+    margin-top: 65px;
+    margin-left: 88px;
+    border-radius: 20px;
+}
+#minibanner{
+    height: 100px;
+    width: 300px;
+    background-color: dimgrey;
+    margin-top: 30px;
+    margin-left: 88px;
+    border-radius: 20px;
+}
+#conteudo{
+    height: 1500px;
+    width: 1366px;
+    background-color: darkgrey;
+}
+#imagenscont{
+    height: 1120px;
+    width: 500px;
+    background-color: burlywood;
+    margin-left: 88px;
+    margin-top: 65px;
+    padding: 1px;
+}
+.imconteudo{
+    height: 300px;
+    width: 494px;
+    background-color: #533DF2;
+    margin-top: 30px;
+    margin-left: 1px;
+    border-radius: 20px;
+}
+#imgconteudo2{
+    height: 130px;
+    width: 494px;
+    background-color: #533DF2;
+    margin-top: 30px;
+    margin-left: 1px;
+    border-radius: 20px;
+}
+#rodape{
+    height: 200px;
+    width: 1366px;
+    background-color:#224858;
+}

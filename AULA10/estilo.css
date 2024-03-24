@@ -61,7 +61,7 @@
     border-radius: 20px;
 }
 #conteudo{
-    height: 1500px;
+    height: 2000px;
     width: 1366px;
     background-color: darkgrey;
 }
@@ -72,6 +72,7 @@
     margin-left: 88px;
     margin-top: 65px;
     padding: 1px;
+    float:left;
 }
 .imconteudo{
     height: 300px;
@@ -88,6 +89,90 @@
     margin-top: 30px;
     margin-left: 1px;
     border-radius: 20px;
+}
+#imagenscont2{
+    height: 1120px;
+    width: 220px;
+    background-color: burlywood;
+    margin-left: 88px;
+    margin-top: 65px;
+    padding: 1px;
+    float:left;
+    
+}
+.imagenzinhas{
+    height: 200px;
+    width: 200px;
+    background-color: #533DF2;
+    margin-top: 30px;
+    margin-right: 1px;
+    border-radius: 20px;
+
+}
+#imagenscont3{
+    height: 1120px;
+    width: 220px;
+    background-color: burlywood;
+    margin-left: 88px;
+    margin-top: 65px;
+    padding: 1px;
+    float:left;
+    margin: right 200px;
+}
+.textos{
+    height: 200px;
+    width: 300px;
+    background-color: #c6c3e0;
+    margin-top: 30px;
+    margin-right: 1px;
+    border-radius: 20px;
+
+}
+#painel{
+    height: 700px;
+    width: 1200px;
+    background-color: burlywood;
+    margin-left: 88px;
+    margin-top: 65px;
+    padding: 1px;
+    float:left;
+}
+.painelgrande{
+    height: 300px;
+    width: 650px;
+    background-color: #533DF2;
+    margin-top: 30px;
+    margin-left: 1px;
+    float: left;
+    margin-right: 30px;
+}
+.painelpequeno{
+    height: 300px;
+    width: 500px;
+    background-color: #281d80;
+    margin-top: 30px;
+    margin-left: 1px;
+    float: left;
+
+}
+.painelgrande2{
+    height: 300px;
+    width: 650px;
+    background-color: #533DF2;
+    margin-top: 30px;
+    margin-left: 1px;
+    float: left;
+    
+}
+.painelpequeno2{
+    height: 300px;
+    width: 500px;
+    background-color: #281d80;
+    margin-top: 30px;
+    margin-left: 1px;
+    float: left;
+    margin-right: 30px;
+
 }
 #rodape{
     height: 200px;

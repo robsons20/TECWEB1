@@ -1,0 +1,109 @@
+.center{
+    text-align: center;
+}
+
+#topo{
+    background-color: coral;
+}
+#cont1{
+    background-color: rgb(245, 146, 111);
+}
+#cont2{
+    background-color: rgb(238, 185, 166);
+}
+.tamanho{
+    height: 70px;
+}
+#cont3{
+    background-color: rgb(233, 31, 31);
+}
+#cont4{
+    background-color: rgb(230, 86, 86);
+}
+#cont5{
+    background-color: rgb(209, 114, 114);
+}
+#cont6{
+    background-color: rgb(59, 233, 36);
+}
+#cont7{
+    background-color: rgb(129, 214, 96);
+}
+#cont8{
+    background-color: rgb(158, 209, 143);
+}
+#cont9{
+    background-color: rgb(171, 199, 169);
+}
+#cont10{
+    background-color: rgb(14, 0, 206);
+}
+#cont11{
+    background-color: rgb(41, 33, 156);
+}
+#cont12{
+    background-color: rgb(52, 43, 134);
+}
+#cont13{
+    background-color: rgb(56, 42, 105);
+}
+#cont14{
+    background-color: rgb(60, 64, 119);
+}
+#cont15{
+    background-color: rgb(100, 100, 134);
+}
+#cont16{
+    background-color: rgb(171, 199, 169);
+}
+#cont17{
+    background-color: rgb(171, 199, 169);
+}
+#cont18{
+    background-color: rgb(171, 199, 169);
+}
+#cont19{
+    background-color: rgb(171, 199, 169);
+}
+#cont20{
+    background-color: rgb(171, 199, 169);
+}
+#cont21{
+    background-color: rgb(171, 199, 169);
+}
+#cont22{
+    background-color: rgb(171, 199, 169);
+}
+#cont23{
+    background-color: rgb(171, 199, 169);
+}
+#cont24{
+    background-color: rgb(171, 199, 169);
+}
+#cont25{
+    background-color: rgb(171, 199, 169);
+}
+#cont26{
+    background-color: rgb(171, 199, 169);
+}
+#cont27{
+    background-color: rgb(171, 199, 169);
+}
+.tamanho2{
+    height: 300px;
+    
+    background-color: blueviolet;
+   
+}
+.tamanho3{
+    height: 300px;
+    
+    background-color: rgb(43, 86, 226);
+}
+.tamanho4{
+    height: 150px;
+}
+.imagem1{
+   
+    margin: auto;
+}

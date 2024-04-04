@@ -1,5 +1,6 @@
 #body{
-    margin:0%;     
+    margin:0%;
+    font-family: Arial, Helvetica, sans-serif;     
 }
 .centro{
     margin: auto;
@@ -36,10 +37,13 @@
 .itemmenu{
     height: 30px;
     width: 100px;
-    float: right;
+    float: left;
     margin-left: 10px;
     background-color: #224858;
     margin-top: 140px;
+    color: aliceblue;
+    text-align: center;
+    line-height: 30px;
 }
 #banner{
     height: 499px;
@@ -213,39 +217,43 @@
 
 }
 #rodape{
-    height: 199px;
-    width: 1366px;
+    height: 200px;
+    width: 1365px;
     background-color:#224858;
     padding: 1px;
+    
 }
 #cxroda{
     height: 150px;
-    width: 1200px;
-    background-color: beige;
+    width: 1300px;
+    /*background-color: beige;*/
     margin-left: 88px;
     margin-top: 25px;
     padding: 1px;
+    
 
 }
-#redes{
+/*#redes{
     height: 100px;
     width: 350px;
     background-color: beige;
     margin-left: 10px;
     margin-top: 25px;
-}
+}*/
 .minirede{
     height: 75px;
     width: 75px;
     background-color: #533DF2;
     float: left;
     margin-left: 10px;
+    margin-top: 25px;
 }
 #texrodape{
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 700px;
     background-color: rgb(211, 211, 32);
-    margin-left: 88px;
-    margin-top: 25px;
+    margin-left: 100px;
+    margin-top: 5px;
+   
     float: left;
 }

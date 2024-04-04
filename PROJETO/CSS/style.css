@@ -1,0 +1,39 @@
+
+body{
+    background-color: #a8d483;
+}
+.cor1{
+    background-color:#5b3a30;
+    height: 180px;
+}
+.cor2{
+    background-color:#5b3a30;
+    height: 180px;
+}
+.tam1{
+    height: 93px;
+}
+.tam2{
+    height: 60px;
+}
+.tex{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+.zap{
+    height: 25px;
+    width: 25px;
+  
+    background-color:transparent
+}
+.lista1{
+    list-style-type: none;
+}
+.corban{
+    background-color: antiquewhite;
+    height: 550px;
+}
+.corban2{
+    background-color: rgb(204, 144, 66);
+    height: 200px;
+}
